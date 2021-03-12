@@ -1,3 +1,7 @@
-# Trabajo2-SOACommit desde branch Feature2_Karla para crear conflicto.
-:q
-[D[A[A[C[[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+# Trabajo2-SOA
+
+Commit desde branch Feature2_Karla para crear conflicto.
+
+Commit desde main en Readmme para crear conflicto.
+
